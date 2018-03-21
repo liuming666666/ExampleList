@@ -1,0 +1,52 @@
+2018-03-18T15:11:09.197Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-18T15:11:09.200Z - normal: checking language setting...
+2018-03-18T15:11:09.200Z - normal: Language: zh
+2018-03-18T15:11:10.065Z - success: protocol editor-framework registered
+2018-03-18T15:11:10.065Z - success: protocol app registered
+2018-03-18T15:11:10.066Z - success: protocol theme registered
+2018-03-18T15:11:10.066Z - success: protocol packages registered
+2018-03-18T15:11:10.066Z - success: protocol unpack registerred
+2018-03-18T15:11:10.066Z - success: protocol disable-commonjs registerred
+2018-03-18T15:11:10.269Z - normal: connected!
+2018-03-18T15:11:10.273Z - normal: Check project /Users/lm/CocosWorkspace/ExampleList
+2018-03-18T15:11:10.275Z - normal: Initializing Cocos2d
+2018-03-18T15:11:10.515Z - normal: Initializing Asset Database
+2018-03-18T15:11:10.547Z - success: protocol uuid registerred
+2018-03-18T15:11:10.547Z - success: protocol db registerred
+2018-03-18T15:11:10.548Z - success: protocol thumbnail registerred
+2018-03-18T15:11:10.548Z - normal: Loading editor/builtin packages
+2018-03-18T15:11:10.567Z - success: anysdk loaded
+2018-03-18T15:11:10.676Z - success: assets loaded
+2018-03-18T15:11:10.680Z - success: builder loaded
+2018-03-18T15:11:10.683Z - success: cocos-analytics loaded
+2018-03-18T15:11:10.687Z - success: console loaded
+2018-03-18T15:11:10.691Z - success: hierarchy loaded
+2018-03-18T15:11:10.695Z - success: inspector loaded
+2018-03-18T15:11:10.696Z - success: keystore loaded
+2018-03-18T15:11:10.701Z - success: node-library loaded
+2018-03-18T15:11:10.703Z - success: package-asset loaded
+2018-03-18T15:11:10.705Z - success: preferences loaded
+2018-03-18T15:11:10.709Z - success: project-exporter loaded
+2018-03-18T15:11:10.725Z - success: project-importer loaded
+2018-03-18T15:11:10.728Z - success: project-settings loaded
+2018-03-18T15:11:10.731Z - success: ui-kit loaded
+2018-03-18T15:11:10.736Z - success: ui-grid loaded
+2018-03-18T15:11:10.739Z - success: scene loaded
+2018-03-18T15:11:10.740Z - success: sprite-editor loaded
+2018-03-18T15:11:10.745Z - success: store loaded
+2018-03-18T15:11:10.750Z - success: timeline loaded
+2018-03-18T15:11:10.751Z - normal: Loading builtin packages
+2018-03-18T15:11:10.760Z - success: asset-db-debugger loaded
+2018-03-18T15:11:10.762Z - success: color-picker loaded
+2018-03-18T15:11:10.766Z - success: package-manager loaded
+2018-03-18T15:11:10.770Z - success: sdkbox loaded
+2018-03-18T15:11:10.775Z - success: tester loaded
+2018-03-18T15:11:10.782Z - success: ui-kit-preview-extra loaded
+2018-03-18T15:11:10.786Z - success: ui-kit-preview loaded
+2018-03-18T15:11:10.789Z - success: ui-tree loaded
+2018-03-18T15:11:11.717Z - normal: Initializing project /Users/lm/CocosWorkspace/ExampleList
+2018-03-18T15:11:11.720Z - normal: Loading packages
+2018-03-18T15:11:11.724Z - normal: Watching packages
+2018-03-18T15:11:11.734Z - normal: Run Application
+2018-03-18T15:11:12.990Z - success: preview server running at http://localhost:7456
+2018-03-18T15:11:17.503Z - normal: 1.8.1
