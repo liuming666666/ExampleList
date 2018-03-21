@@ -59,7 +59,6 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-        console.log("aaaa");
         for (var i = 0; i < this.nodeCount; i++) {
             var node = cc.instantiate(this.tempPrefab);
             node.x = (Math.random() - 0.5) * 960;
